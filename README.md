@@ -28,3 +28,10 @@ As a matter of fact it conflicts head-on with one of the basic principle
 behind the idea of Rmarkdown (markdowns in general), that is to streamline the
 workflow by separating all formatting concerns from the act of writing a report.
 
+# HTML online version
+
+The reports can be seen directly rendered at these two URLs:
+
+* [long report](http://htmlpreview.github.io/?https://github.com/pedrosan/MTcars/blob/master/report_long.html)
+* [short report](http://htmlpreview.github.io/?https://github.com/pedrosan/MTcars/blob/master/report_short.html)
+

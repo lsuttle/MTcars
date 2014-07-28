@@ -45,7 +45,7 @@ pre code {
 # make this an external chunk that can be included in any file
 library(knitr)
 options(width = 100)
-opts_chunk$set(comment=NA, message=FALSE, error=FALSE, warning=FALSE, echo=FALSE, collapse=TRUE, fig.align='left', dpi=96, tidy=FALSE, cache.path = '.cache/', fig.path = 'figures/')
+opts_chunk$set(comment=NA, message=FALSE, error=FALSE, warning=FALSE, echo=FALSE, collapse=TRUE, fig.align='left', dpi=96, tidy=FALSE, cache.path = '.cache/', fig.path = 'figures_long/')
 
 # options(xtable.type = 'html')
 # knit_hooks$set(inline = function(x) {
